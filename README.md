@@ -4,6 +4,7 @@
 
 
 #### Publication
+Additional Authors: Tanvi Arora, Rajat Chandna, Dr. Bivin Sadler, & Dr. Robert Slater
 ##### Demand Forecasting In Wholesale Alcohol Distribution: An Ensemble Approach
 ##### [Publication Link](https://scholar.smu.edu/datasciencereview/vol3/iss1/7/)
 ###### Abstract
