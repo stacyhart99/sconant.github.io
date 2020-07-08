@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+### Contact information:
+#### Email: stacy.conant6@gmail.com
+#### Linkedin: [Link](https://www.linkedin.com/in/stacy-hartgraves-conant/)
 
 You can use the [editor on GitHub](https://github.com/stacyhart99/sconant.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
