@@ -7,6 +7,7 @@
 ### Publication:
 ##### Demand Forecasting In Wholesale Alcohol Distribution: An Ensemble Approach
 Authors: Tanvi Arora, Rajat Chandna, Stacy Conant, Dr. Bivin Sadler, & Dr. Robert Slater
+
 SMU Data Science Review, Volume 3(2020)
 ##### [Publication Link](https://scholar.smu.edu/datasciencereview/vol3/iss1/7/)
 ###### Abstract
